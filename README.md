@@ -19,7 +19,8 @@ Here are some ideas to get you started:
     -Html/css
 - 👯 I’m looking to collaborate on ...
     - UI design 
-- 📫 How to reach me: Ig- @dankazim
+- 📫 How to reach me: 
+      Ig: @dankazim
 
 
 
