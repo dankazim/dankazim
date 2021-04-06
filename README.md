@@ -15,8 +15,8 @@ Here are some ideas to get you started:
     
 
 - 🌱 I’m currently learning ...
-    -Python
-    -Html/css
+    -[Python]
+    -[Html/css]
 - 👯 I’m looking to collaborate on ...
     - UI design 
 - 📫 How to reach me: 
