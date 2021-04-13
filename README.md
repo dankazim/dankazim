@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
     - [NoteBook](https://github.com/dankazim/NoteBook)
     - [Polls](https://github.com/dankazim/polls)
-    - [AIU Transaction System (https://github.com/dankazim/AiuTransactionSystem)
+    - [AIU Transaction System] (https://github.com/dankazim/AiuTransactionSystem)
     
 
 - 🌱 I’m currently learning ...
