@@ -23,6 +23,6 @@ My community website:
 ![Django](https://img.shields.io/badge/-django-000?style=flat&logo=djangot&logoColor=white&color=404254)
 ![Python](https://img.shields.io/badge/-python-000?style=flat&logo=python&logoColor=white&color=404254)
 
-<-- ## Stats
+<! -- ## Stats
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dankazim&show_icons=true&theme=dracula) -->
 
