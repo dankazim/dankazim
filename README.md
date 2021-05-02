@@ -20,6 +20,8 @@ My community website:
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white&color=404254)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=404254)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=404254)
+![Django](https://img.shields.io/badge/-django-000?style=flat&logo=git&logoColor=white&color=404254)
+![Python](https://img.shields.io/badge/-python-000?style=flat&logo=git&logoColor=white&color=404254)
 
 ## Stats
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dankazim&show_icons=true&theme=dracula) 
