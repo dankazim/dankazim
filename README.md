@@ -26,3 +26,7 @@ My community website:
 <!-- ## Stats
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dankazim&show_icons=true&theme=dracula) -->
 
+Let's connect on 
+
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dan-muhindo-kazimoto-ab7a90195/) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dankazim/)
+
