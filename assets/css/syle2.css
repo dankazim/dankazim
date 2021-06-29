@@ -4,6 +4,7 @@
     --primary:#f3f4f5; 
     --secondary: #212121;
     --other: #6c918a; 
+    --off-white:#6c918a;  
     --main: #F5CD1A;
     --main2:#C3C8CA;
     --main3:#8F7D67;
@@ -20,12 +21,11 @@
 
     --home-h:60vh;
     --home-padding-top:1rem;
-  
     
 }
 .about{
     height: 20vh;
-    background-color: var(--other);
+    background-color: var(--off-white);
 }
 @media screen and (min-width: 968px){
     :root{
@@ -62,10 +62,10 @@ button,input{border: none;}
 button{cursor: pointer;}
 input{outline: none;}
 
-.main{overflow-x: hidden;}
+.main{overflow-x: hidden; ;}
 /*--------------------- reusable class ---------------------*/
 section{
-    padding: 4.4rem 0 0 0;
+    padding: 4.4rem 0 2.5rem;
 }
 .section-title{
     font-size: var(--subheading-size);
@@ -88,9 +88,6 @@ section{
 
 
 }
-.work{
-    background-color: #F5CD1A;
-}
 
 /* -------------nav bar---------------- */
 .nav{
@@ -104,7 +101,6 @@ section{
 .nav-logo{font-weight: 400; font-family: var(--logo-font); font-size: var(--heading-size)}
 .nav-toggle{font-size: 1.5rem; cursor: pointer;;}
 .nav-menu{position: relative;}
-
 @media  screen and (max-width: 767px) {
     .nav-menu{
         position: fixed;
@@ -168,11 +164,6 @@ section{
     .container{
         margin: 0 auto;
     }
-    .home-img{
-        width:40vw;
-        top: 13%;
-        left: 55%;
-    }
 }
 
 @media screen and (min-width:12800px){
@@ -180,20 +171,11 @@ section{
 }
 
 /* *home */
-
-/* !deal with this later, the image illustration */
 .home-img{
     position: absolute;
-    width:30vw;
     top: 13%;
-    left: 50%;
-    
-    
+    left: 50%; 
 }
-
-/* .home{
-    height: 80vh;
-} */
 
 .home-container{
     position: relative;
@@ -204,7 +186,6 @@ section{
  
     
 } 
-
 
 .home-data-title{
     
@@ -234,3 +215,40 @@ section{
     background-color: var(--secondary);
     
 }
+
+
+
+
+
+
+
+
+
+
+
+/* header{
+    min-height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1{
+    font-weight: 700;
+    color: var(--other);
+}
+.nav-link{
+    list-style: none;
+    display: flex;
+}
+.nav-link li{
+    padding: 0px 20px;
+    
+}
+.nav-link a{
+    text-decoration: none;
+    font-size: var(--subheading-size);
+    color: var(--other);
+}
+ */
+
+
