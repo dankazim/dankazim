@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Dan👋
 Im just a litle boy trayna be creative. I mostly play around with graphic designing. But lately im more into codding, and web development
 
 My community website:
