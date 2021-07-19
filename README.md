@@ -1,22 +1,22 @@
 ### Hi there I'm Dan👋
 Im just a litle boy trayna be creative. I mostly play around with graphic designing. But lately im more into codding, and web development
 
-My community website:
-    - [Code On Run ](https://github.com/dankazim/codonrun)
+Join My Discord Codding server:
+    - [Join Code On Run ](https://discord.gg/FyrA3NQWcb)
 
 
 ## Websites (Resposive)
 - [COR](https://cor.run/)
 
 ## Project list (mobile Apps)
-- [Tract](trackt.vercel.app/)
-- [Daily Moments](https://github.com/dankazim/Daily-Moments)
+- [Simple Progress Tracker](https://github.com/khazifire/TRACKT)
+- [Daily Moments](https://github.com/khazifire/Daily-Moments)
 
 ## Project list (Web Apps)
-- [NoteBook System](https://github.com/dankazim/NoteBook)
-- [Polls System](https://github.com/dankazim/polls)
-- [AIU Transaction System](https://github.com/dankazim/AiuTransactionSystem)
-- [Parking System](https://github.com/dankazim/ParkingSystem)
+- [NoteBook System](https://github.com/khazifire/NoteBook)
+- [Polls System](https://github.com/khazifire/polls)
+- [AIU Transaction System](https://github.com/khazifire/AiuTransactionSystem)
+- [Parking System](https://github.com/khazifire/ParkingSystem)
 
 
 ## Technologies & Tools
