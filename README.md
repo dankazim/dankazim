@@ -13,8 +13,8 @@ My community website:
 - [Daily Moments](https://github.com/dankazim/Daily-Moments)
 
 ## Project list (Web Apps)
-- [NoteBook](https://github.com/dankazim/NoteBook)
-- [Polls](https://github.com/dankazim/polls)
+- [NoteBook System](https://github.com/dankazim/NoteBook)
+- [Polls System](https://github.com/dankazim/polls)
 - [AIU Transaction System](https://github.com/dankazim/AiuTransactionSystem)
 - [Parking System](https://github.com/dankazim/ParkingSystem)
 
