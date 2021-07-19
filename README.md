@@ -1,5 +1,5 @@
 ### Hi there I'm Dan👋
-Im just a litle boy trayna be creative. I mostly play around with graphic designing. But lately im more into codding, and web development
+Aspiring Web Developer, graphic designer, and Information Technology Undergraduate. How can I do all 3 things? I can't, but I try my best.
 
 Join My Discord Codding server:
     - [Join Code On Run ](https://discord.gg/FyrA3NQWcb)
