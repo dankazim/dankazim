@@ -8,6 +8,10 @@ Join My Discord Codding server:
 ## Websites (Resposive)
 - [COR](https://cor.run/)
 
+
+## Project list (smart contracts)
+- [Voting System](https://github.com/khazifire/VotingSys-SmartContract)
+
 ## Project list (mobile Apps)
 - [Simple Progress Tracker](https://github.com/khazifire/TRACKT)
 - [Daily Moments](https://github.com/khazifire/Daily-Moments)
