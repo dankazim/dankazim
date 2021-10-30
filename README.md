@@ -37,4 +37,3 @@ Let's connect on
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dan-muhindo-kazimoto-ab7a90195/) [![Instagram](https://img.shields.io/badge/instagram-red?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khazifire/)
 [![Twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/khazifire)
-
