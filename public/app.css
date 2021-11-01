@@ -31880,6 +31880,27 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+/* width */
+
+::-webkit-scrollbar {
+  width: 11px;
+  height: 100%;
+}
+
+/* Track */
+
+::-webkit-scrollbar-track {
+  border-radius: 100vh;
+  background: #E5E7EB;
+}
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+  background: #FBBF24;
+  border-radius: 100vh;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
