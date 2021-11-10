@@ -6,10 +6,11 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     colors:{
-      primary:'#05203D',
-      secondary:'#F4B943',
-      tertiary: '#DCDCDB',
-      other:'#FAF7F1',
+      primary:'#010D0D', /* black shade 010D0D */
+      secondary:'#F4B943', /* yellow shade */
+      other:'#F8F9F9', /* white shade */
+      tertiary: '#010D0D',
+   
 
       transparent: 'transparent',
       current: 'currentColor',
@@ -22,10 +23,7 @@ module.exports = {
       indigo: colors.indigo,
     },
     extend: {
-      animation:{
-        'pulse':'7s',
-      }
-    },
+    }
   },
   variants: {
     extend: {},
@@ -35,7 +33,7 @@ module.exports = {
       const extendUnderline = {
           '.underline': {
               'textDecoration': 'underline',
-              'text-decoration-color': '#FBBF24',
+              'text-decoration-color': '#F4B943',
           },
       }
       addUtilities(extendUnderline)
