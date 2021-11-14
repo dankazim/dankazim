@@ -6,21 +6,13 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     colors:{
-      primary:'#010D0D', /* black shade 010D0D */
-      secondary:'#F4B943', /* yellow shade */
-      other:'#F8F9F9', /* white shade */
-      tertiary: '#010D0D',
+      primary:'#0e0e10', /* black shade 010D0D */
+      secondary:'#FBBF24', /* yellow shade */
+      other:'#E5E7EB', /* white shade */
+      tertiary: '#F8FAFC',
    
-
       transparent: 'transparent',
       current: 'currentColor',
-      black: colors.black,
-      white: colors.white,
-      gray: colors.coolGray,
-      red: colors.red,
-      yellow: colors.amber,
-      blue: colors.blue,
-      indigo: colors.indigo,
     },
     extend: {
     }
