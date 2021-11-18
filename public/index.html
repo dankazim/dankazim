@@ -21,7 +21,7 @@
    <!-- ########################################
   Navigation bar
 ############################################# -->
-<nav class="bg-primary px-2 sm:px-6 md:px-18 lg:px-24">
+<nav class="sticky top-0 z-10 bg-primary px-2 sm:px-6 md:px-18 lg:px-24">
   <div class="px-10 py-4 mx-auto md:flex md:justify-between md:items-center">
       <div class="flex items-center justify-between ">
           <div>
@@ -115,7 +115,7 @@
 ############################################# -->
   <section class="relative bg-other py-32 px-2 sm:px-6 md:px-18 lg:px-24 ">
     <svg data-name="Layer 1"  style="top:0; left:0; width:100%; overflow:hidden; position:absolute;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-      <path fill="#0e0e10" d="M1200 0L0 0 998.97 90.72 1200 0z" ></path>
+      <path fill="#0E1117" d="M1200 0L0 0 998.97 90.72 1200 0z" ></path>
     </svg>
 
     <svg data-name="Layer 1"  style="top:-10; left:0; width:100%; overflow:hidden; position:absolute;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
@@ -201,10 +201,6 @@
       <path fill="#F4B943" d="M1200 0L0 90 898.97 30 1200 0z" ></path>
     </svg>
 
-    
-
-
-
       <div class=" px-5  mx-auto mt-4 ">
         <div class="flex flex-wrap w-full flex-col items-center text-center">
           <h2 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold title-font mb-2 text-other">How i work?</h1> 
@@ -270,17 +266,18 @@
   Recent Projects
 ############################################# -->
 <section class="relative block bg-fixed  py-40  px-2 sm:px-6 md:px-18 lg:px-32 " >
-    <svg data-name="Layer 1" style="top:0; left:0; width:100%; overflow:hidden; position:absolute;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-      <path fill="#0e0e10" d="M1200 0L0 0 998.97 90.72 1200 0z" ></path>
+  <svg data-name="Layer 1" style="top:0; left:0; width:100%; overflow:hidden; position:absolute;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+      <path fill="#0E1117" d="M1200 0L0 0 998.97 90.72 1200 0z" ></path>
     </svg>
     <svg data-name="Layer 1"  style="top:-10; left:0; width:100%; overflow:hidden; position:absolute;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
       <path  fill="#EAB308" d="M1200 0L0 0 928.97 90.72 100 0z" ></path>
-    </svg>
+    </svg> 
+  
 
     <div class=" px-5  mx-auto lg:mb-6">
       <div class="flex flex-wrap w-full flex-col items-center text-center">
         <h2 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold title-font mb-2 text-primary">What i do?</h1> 
-          <!-- <p class="lg:w-1/2 w-full text-primary leading-relaxed text-opacity-70 text-xl">Recent Projects</p> -->
+     
       </div>
     </div>
  
@@ -355,7 +352,7 @@
 
 
     
-</section> 
+</section>  
 
 <!-- ########################################
   Contact me form
@@ -408,10 +405,75 @@
     </div>
   </section> 
 
+  <!-- ######################################
+    Recent blog post
+  ########################################### -->
+  <section class="bg-other  sm:pl-6 md:pl-18 lg:pl-24">
+    <div class=" px-5  mx-auto py-8">
+      <div class="flex flex-wrap w-full flex-col items-center text-center">
+        <h2 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold title-font  text-primary">Blog Post</h1> 
+          <p class="lg:w-1/2 w-full text-primary leading-relaxed text-opacity-70 text-xl">Recent Blog Post</p>
+      </div>
+    </div>
+
+    <div class="  lg:flex">
+        <div class=" flex items-center  w-full px-6 py-8 lg:py-16 lg:h-128 lg:w-1/2">
+            <div class="max-w-xl">
+                <span class="text-secondary font-semibold bg-mid px-2 py-1 rounded-sm">Category</span>
+                <h1 class="my-2 text-2xl font-semibold text-gray-800  lg:text-3xl">Blog title goes here yeyeyye</h1>
+                <span>By Dan on Hashnode | Nov 17, 2021</span> 
+                <p class="mt-6 text-sm text-gray-500  lg:text-base">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis commodi cum cupiditate ducimus, fugit harum id necessitatibus odio quam quasi, quibusdam rem tempora voluptates...</p>
+                
+                <div class="mt-6 lg:flex-shrink-0">
+                    <a href="post.html" class=" inline-flex py-2 px-4 rounded-lg bg-secondary border-2 border-transparent text-primary text-md mr-4 focus:bg-other hover:border-other">
+                    Read More <span>
+                        <svg class="pl-1 h-6 w-6" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M5 12h14"></path>
+                            <path d="M12 5l7 7-7 7"></path>
+                        </svg>
+                    </span>
+                </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="w-full h-64 lg:w-1/2 lg:h-auto">
+            <div class="w-full h-full bg-cover" style="background-image: url(https://images.unsplash.com/photo-1508394522741-82ac9c15ba69?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=748&q=80)">
+                <div class="w-full h-full bg-black opacity-25"></div>
+            </div>
+        </div>
+    </div>  
+</section>
+
+
 <!-- ########################################
-  newslater
-  TODO fix later
-############################################# -->
+  newslater CTA -->
+
+  <section class="relative bg-primary px-2 sm:px-6 md:px-18 lg:px-40">
+      <svg data-name="Layer 1"  class="top-0 w-full overflow-hidden absolute left-2 right-1"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+          <path fill="#F4B943" d="M1200 0L0 0 598.97 10 1200 0z" ></path>
+        </svg>
+      <div class="container px-6 py-16 mx-auto">
+          <div class="items-center lg:flex lg:justify-center">
+              <div class="w-full lg:w-2/3">
+                  <div class=" text-center lg:text-left">
+                      <h1 class=" text-2xl font-semibold text-other lg:text-3xl">Subscribe To My <span class="text-secondary">Newsletter</span></h1>
+    
+                      <p class=" mt-4 text-other dark:text-gray-400">Be the first to knows when a new  <span class="font-medium text-secondary">Blog</span> is created</p>
+    
+                  </div>
+              </div>
+      
+              <div class="flex flex-col mt-8 space-y-3 lg:space-y-0 lg:flex-row ">
+                  <input id="email" type="text" class="px-4 py-2 text-gray-700 bg-other border border-other rounded-lg text-primary  focus:outline-none focus:ring" placeholder="Email Address">   
+                  <button class="w-full px-4 py-2 text-sm  text-primary font-medium tracking-wide capitalize transition-colors duration-200 transform bg-secondary rounded-lg lg:w-auto lg:mx-4 hover:bg-indigo-400 focus:outline-none focus:bg-indigo-400">
+                              Subscribe
+                          </button>
+              </div>
+          </div>
+      </div>
+  </section>  
+
 
 <!-- ########################################
   FOOTER
