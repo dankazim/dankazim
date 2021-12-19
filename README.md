@@ -6,10 +6,10 @@ Join My Discord Codding server:
 
 
 ## Project list (Web Apps)
-- [Blog CSM](https://github.com/khazifire/portfolio_and_blogcms)
-- [NoteBook System](https://github.com/khazifire/NoteBook)
-- [Polls System](https://github.com/khazifire/polls)
-- [AIU Transaction System](https://github.com/khazifire/AiuTransactionSystem)
+- [Blog CSM: laravel](https://github.com/khazifire/portfolio_and_blogcms)
+- [NoteBook System: django](https://github.com/khazifire/NoteBook)
+- [Polls System: django](https://github.com/khazifire/polls)
+- [AIU Transaction System: django](https://github.com/khazifire/AiuTransactionSystem)
 - [Parking System](https://github.com/khazifire/ParkingSystem)
 
 ## Project list (mobile Apps)
