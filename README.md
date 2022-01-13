@@ -1,6 +1,8 @@
 ### Hi there I'm Dan👋
 Aspiring Web Developer, graphic designer, and Information Technology Undergraduate. How can I do all 3 things? I can't, but I try my best.
 
+### Portfolio website: [khazifire.com](https://khazifire.com)
+
 Join My Discord Codding server:
     - [Join Code On Run ](https://discord.gg/FyrA3NQWcb)
 
