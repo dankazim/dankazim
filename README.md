@@ -1,9 +1,9 @@
 ### Hi there I'm Dan👋
-Aspiring Web Developer, graphic designer, and Information Technology Undergraduate. How can I do all 3 things? I can't, but I try my best.
+I'm a web design (UI) freelancer.
 
-### Portfolio website: [khazifire.com](https://khazifire.com)
+### Personal website: [khazifire.com](https://khazifire.com)
 
-Join My Discord Codding server:
+Join My Discord  server:
     - [Join Code On Run ](https://discord.gg/FyrA3NQWcb)
 
 
@@ -21,7 +21,7 @@ Join My Discord Codding server:
 ## Project list (smart contracts)
 - [Voting System](https://github.com/khazifire/VotingSys-SmartContract)
 
-## Websites (Resposive)
+## other
 - [COR](https://cor.run/)
 
 
