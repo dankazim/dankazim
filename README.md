@@ -1,5 +1,5 @@
 ### Hi there I'm Dan👋
-I'm a web design (UI) freelancer.
+I'm a web design (UI) freelancer, with an intersted in web devlopment.
 
 ### Personal website: [khazifire.com](https://khazifire.com)
 
