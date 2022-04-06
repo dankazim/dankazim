@@ -1,11 +1,10 @@
 ### Hi there I'm Dan👋
-I'm a web design (UI) freelancer, with an intersted in web devlopment.
+I'm a web designer (UI) with an interest in web devlopment.
 
-### Personal website: [khazifire.com](https://khazifire.com)
+### Personal website (built from scratch): [khazifire.com](https://khazifire.com)
 
 Join My Discord  server:
     - [Join Code On Run ](https://discord.gg/FyrA3NQWcb)
-
 
 ## Project list (Web Apps)
 - [Blog CSM: laravel](https://github.com/khazifire/portfolio_and_blogcms)
@@ -38,5 +37,5 @@ Join My Discord  server:
 
 Let's connect on 
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dan-muhindo-kazimoto-ab7a90195/) [![Instagram](https://img.shields.io/badge/instagram-red?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khazifire.dev/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dan-muhindo-kazimoto-ab7a90195/) [![Instagram](https://img.shields.io/badge/instagram-red?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khazifire)
 [![Twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/khazifire)
