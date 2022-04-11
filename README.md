@@ -28,6 +28,8 @@ Join My Discord  server:
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white&color=404254)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=404254)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=404254)
+![Nextjs](https://img.shields.io/badge/-nextjs-000?style=flat&logo=php&logoColor=white&color=404254)
+![Tailwind](https://img.shields.io/badge/-tailwind-000?style=flat&logo=php&logoColor=white&color=404254)
 ![Django](https://img.shields.io/badge/-django-000?style=flat&logo=djangot&logoColor=white&color=404254)
 ![Python](https://img.shields.io/badge/-python-000?style=flat&logo=python&logoColor=white&color=404254)
 ![PHP](https://img.shields.io/badge/-php-000?style=flat&logo=php&logoColor=white&color=404254)
