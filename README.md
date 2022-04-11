@@ -1,10 +1,7 @@
 ### Hi there I'm Dan👋
 I'm a web designer (UI) with an interest in web devlopment.
 
-### Personal website (built from scratch): [khazifire.com](https://khazifire.com)
-
-Join My Discord  server:
-    - [Join Code On Run ](https://discord.gg/FyrA3NQWcb)
+Personal website (built from scratch): [khazifire.com](https://khazifire.com)
 
 ## Project list (Web Apps)
 - [Blog CSM: laravel](https://github.com/khazifire/portfolio_and_blogcms)
