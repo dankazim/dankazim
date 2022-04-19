@@ -8,7 +8,7 @@ Personal website (built from scratch): [khazifire.com](https://khazifire.com)
 - [NoteBook System: django](https://github.com/khazifire/NoteBook)
 - [Polls System: django](https://github.com/khazifire/polls)
 - [AIU Transaction System: django](https://github.com/khazifire/AiuTransactionSystem)
-- [Food Rating System](https://github.com/khazifire/FoodRattingSystem)
+- [Food Rating System: django](https://github.com/khazifire/FoodRattingSystem)
 
 ## Project list (mobile Apps)
 - [Simple Progress Tracker](https://github.com/khazifire/TRACKT)
