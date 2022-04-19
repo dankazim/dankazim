@@ -4,7 +4,7 @@ I'm a web designer (UI) with an interest in web devlopment.
 Personal website (built from scratch): [khazifire.com](https://khazifire.com)
 
 ## Project list (Web Apps)
-- [Blog CSM: laravel](https://github.com/khazifire/portfolio_and_blogcms)
+- [Blog CMS: laravel](https://github.com/khazifire/portfolio_and_blogcms)
 - [NoteBook System: django](https://github.com/khazifire/NoteBook)
 - [Polls System: django](https://github.com/khazifire/polls)
 - [AIU Transaction System: django](https://github.com/khazifire/AiuTransactionSystem)
