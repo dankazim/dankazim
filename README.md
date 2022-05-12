@@ -1,5 +1,5 @@
 ### Hi there I'm Dan👋
-I'm a web designer (UI) with an interest in web devlopment.
+I'm a creative software developer focused on building usable, user centered interfaces that add value to your business.
 
 Personal website (built from scratch): [khazifire.com](https://khazifire.com)
 
