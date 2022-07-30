@@ -1,5 +1,6 @@
 ### Hi there I'm Dan👋
 A creative UI designer and Software Developer creating beautiful and functional products with delightful user experiences.
+
 For more information: [khazifire.com](https://khazifire.com)
 
 ## Project list (Web Apps)
