@@ -4,7 +4,7 @@ I'm a creative software developer focused on building usable, user centered inte
 Personal website (built from scratch): [khazifire.com](https://khazifire.com)
 
 ## Project list (Web Apps)
-- [Spotified: profile analyzer=> Nextjs + Tailwind](https://github.com/spotified)
+- [Spotified - profile analyzer: Nextjs + Tailwind](https://github.com/spotified)
 - [Github Profile summarizer: Nextjs + Tailwind](https://github.com/khazifire)
 - [Blog CMS: laravel](https://github.com/khazifire/portfolio_and_blogcms)
 - [NoteBook System: django](https://github.com/khazifire/NoteBook)
