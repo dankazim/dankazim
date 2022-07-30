@@ -14,8 +14,8 @@ For more information: [khazifire.com](https://khazifire.com)
 
 
 ## Project list (mobile Apps)
-- [Simple Progress Tracker](https://github.com/khazifire/TRACKT)
-- [Daily Moments](https://github.com/khazifire/Daily-Moments)
+- [Simple Progress Tracker: React Native + Ionic](https://github.com/khazifire/TRACKT)
+- [Daily Moments: React Native + Ionic](https://github.com/khazifire/Daily-Moments)
 
 ## Project list (smart contracts)
 - [Voting System](https://github.com/khazifire/VotingSys-SmartContract)
