@@ -1,7 +1,6 @@
 ### Hi there I'm Dan👋
-I'm a creative software developer focused on building usable, user centered interfaces that add value to your business.
-
-Personal website (built from scratch): [khazifire.com](https://khazifire.com)
+A creative UI designer and Software Developer creating beautiful and functional products with delightful user experiences.
+For more information: [khazifire.com](https://khazifire.com)
 
 ## Project list (Web Apps)
 - [Spotified - profile analyzer: Nextjs + Tailwind](https://github.com/spotified)
