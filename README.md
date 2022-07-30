@@ -29,11 +29,11 @@ Personal website (built from scratch): [khazifire.com](https://khazifire.com)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=404254)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=404254)
 ![Javascript](https://img.shields.io/badge/-Javascript-000?style=flat&logo=Javascript&logoColor=white&color=404254)
-![Next.js](https://img.shields.io/badge/-nextjs-000?style=flat&logo=nextjs&logoColor=white&color=404254)
+![Next.js](https://img.shields.io/badge/-next-000?style=flat&logo=nextjs&logoColor=white&color=404254)
 ![Tailwind Css](https://img.shields.io/badge/-tailwind-000?style=flat&logo=tailwind&logoColor=white&color=404254)
 ![Django](https://img.shields.io/badge/-django-000?style=flat&logo=djangot&logoColor=white&color=404254)
 ![Python](https://img.shields.io/badge/-python-000?style=flat&logo=python&logoColor=white&color=404254)
-![PHP](https://img.shields.io/badge/-php-000?style=flat&logo=php&logoColor=white&color=404254)
+![React](https://img.shields.io/badge/-react-000?style=flat&logo=react&logoColor=white&color=404254)
 
 <!-- ## Stats
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dankazim&show_icons=true&theme=dracula) -->
