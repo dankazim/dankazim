@@ -4,12 +4,14 @@ I'm a creative software developer focused on building usable, user centered inte
 Personal website (built from scratch): [khazifire.com](https://khazifire.com)
 
 ## Project list (Web Apps)
+- [Spotified: profile analyzer=> Nextjs + Tailwind](https://github.com/spotified)
+- [Github Profile summarizer: Nextjs + Tailwind](https://github.com/khazifire)
 - [Blog CMS: laravel](https://github.com/khazifire/portfolio_and_blogcms)
 - [NoteBook System: django](https://github.com/khazifire/NoteBook)
 - [Polls System: django](https://github.com/khazifire/polls)
 - [AIU Transaction System: django](https://github.com/khazifire/AiuTransactionSystem)
 - [Food Rating System: django](https://github.com/khazifire/FoodRattingSystem)
-- [Github Profile summarizer: Nextjs + Tailwind](https://github.com/khazifire)
+
 
 ## Project list (mobile Apps)
 - [Simple Progress Tracker](https://github.com/khazifire/TRACKT)
