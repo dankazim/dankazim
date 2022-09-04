@@ -4,6 +4,7 @@ A creative UI designer and Software Developer creating beautiful and functional 
 For more information: [khazifire.com](https://khazifire.com)
 
 ## Project list (Web Apps)
+- [DripUI - Tailwind Componenets: Nextjs + Tailwind](https://github.com/khazifire/DripUI)
 - [Spotified - profile analyzer: Nextjs + Tailwind](https://github.com/spotified)
 - [Github Profile summarizer: Nextjs + Tailwind](https://github.com/khazifire)
 - [Khazifire Website: Nextjs + Tailwind](https://khazifire.com)
