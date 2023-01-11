@@ -22,9 +22,9 @@ For more information: [khazifire.com](https://khazifire.com)
 ## Project list (smart contracts)
 - [Voting System](https://github.com/khazifire/VotingSys-SmartContract)
 
-## other
+<!-- ## other
 - [COR](https://cor.run/)
-
+ -->
 
 ## Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white&color=404254)
