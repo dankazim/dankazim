@@ -1,5 +1,5 @@
 ### Hi there I'm Dan👋
-A creative UI designer and Software Developer creating beautiful and functional products with delightful user experiences.
+A creative Frontend Developer and I make pretty, useful things for people to use.
 
 For more information: [khazifire.com](https://khazifire.com)
 
