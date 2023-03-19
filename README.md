@@ -4,6 +4,7 @@ A creative Frontend Developer and I make pretty, useful things for people to use
 For more information: [khazifire.com](https://khazifire.com)
 
 ## Project list (Web Apps)
+- [Khazimotion | a blog - personal tips, experience and lessons](https://Khazimotion.com)
 - [DripUI - Tailwind Componenets: Nextjs + Tailwind](https://github.com/khazifire/DripUI)
 - [Spotified - profile analyzer: Nextjs + Tailwind](https://github.com/khazifire/spotified)
 - [Github Profile summarizer: Nextjs + Tailwind](https://github.com/khazifire)
