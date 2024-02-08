@@ -1,7 +1,7 @@
 ### Hi there I'm Dan👋
 A creative Frontend Developer and I make pretty, useful things for people to use.
 
-For more information: [khazifire.com](https://khazifire.com)
+For more information (to be updated soon): [khazifire.com](https://khazifire.com)
 
 ## Project list (Web Apps)
 - [Khazimotion | a blog - personal tips, experience and lessons](https://Khazimotion.com)
