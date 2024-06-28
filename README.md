@@ -2,6 +2,8 @@
 A creative Frontend Developer and I make pretty, useful things for people to use.
 
 For more information (to be updated soon): [khazifire.com](https://khazifire.com)
+## Project list (NPM Package)
+- [DEV-EYE: A Tool for Monitoring Bus Factor Using Commit History]([https://Khazimotion.com](https://github.com/MUICT-SERU/dev-eye)
 
 ## Project list (Web Apps)
 - [Khazimotion | a blog - personal tips, experience and lessons](https://Khazimotion.com)
